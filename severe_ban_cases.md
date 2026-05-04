@@ -1,15 +1,7 @@
 # 🎮 Player Punishments [IN-GAME]
 
----
 
-## ⚠️ Must-Know
-- **Severe cases** → Instant punishment (no warning)
-- **Mild cases** → Warning first
-- Repeating offenses → **Punishment gets longer**
-
----
-
-## 🔨 Permanent Ban (Severe Cases)
+## 🔨 NOTE: Permanent Ban (Severe Cases)
 *Clear evidence required. Always post it in the punishment channel.*
 
 ### 🚫 Cheating
@@ -23,6 +15,15 @@ Helping or teaming with cheaters for advantage. This is applied ONLY if it's obv
 For example: playing in a closed room with someone that uses quick ammo hacks in a boss battle match.
 → **Permanent ban (main account)**  
 → New accounts are allowed
+
+---
+
+### 🧾 Doxxing
+Sharing private personal info - full name, home address, family information, and any in-real life information that can lead to someone's personal identity to be disclosed
+
+**Punishment:** Permanent ban  
+
+> Note: First names are allowed  
 
 ---
 
