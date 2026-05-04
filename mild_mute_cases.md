@@ -6,7 +6,15 @@
 💡 Note: Many cases are lighter now → players should use the **block feature** when possible
 
 ---
+### Continuous Slurs Usage 
+This must have MULTIPLE evidence of being targeted towards specific players or in multiple occasions publicly.
+1. Warning  
+2. 1 day mute  
+3. 2 day mute  
+4. 3 day mute  
+All the next mutes will remain for 3 days.
 
+---
 ### 📢 Spamming
 Repeated spam messages  
 
