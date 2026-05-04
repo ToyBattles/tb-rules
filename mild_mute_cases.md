@@ -8,6 +8,8 @@
 ---
 ### Continuous Slurs Usage 
 This must have MULTIPLE evidence of being targeted towards specific players or in multiple occasions publicly.
+Context matters A LOT. Always check chatlogs if unsure to retrieve the context and don't rely only on single occasions.
+
 1. Warning  
 2. 1 day mute  
 3. 2 day mute  
