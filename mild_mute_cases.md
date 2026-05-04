@@ -13,8 +13,9 @@ Context matters A LOT. Always check chatlogs if unsure to retrieve the context a
 1. Warning  
 2. 1 day mute  
 3. 2 day mute  
-4. 3 day mute  
-All the next mutes will remain for 3 days.
+4. 3 day mute
+
+All the next mutes after the 4th offense will be kept at 3-day mute.
 
 ---
 ### 📢 Spamming
