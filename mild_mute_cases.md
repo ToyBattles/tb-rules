@@ -18,22 +18,21 @@ Context matters A LOT. Always check chatlogs if unsure to retrieve the context a
 All the next mutes after the 4th offense will be kept at 3-day mute.
 
 ---
+
 ### 📢 Spamming
-Repeated spam messages  
+Repeated spam messages (obviously serious spamming)
 
 **Punishments:**
 1. Warning  
 2. 1 day mute  
-3. 3 day mute  
-4. 7 day mute  
-5. 14 day mute  
-6. 28 day mute  
-7. 90 day mute  
+3. 3 day mute
+   
+All the next mutes after the 3rd offense will have a 3 days length.
 
 ---
 
 ### 🎭 Staff Impersonation
-Pretending to be staff  
+Pretending to be staff in order to **gain advantages** or to steal accounts. Use a higher duration for serious cases like trying to steal accounts.
 
 **Punishments:**
 1. Warning  
@@ -46,7 +45,7 @@ Pretending to be staff
 ---
 
 ### 📰 Fake Information
-Spreading harmful or false claims  
+Spreading harmful or false claims (serious false claims or seriously harmful claims)
 
 **Punishments:**
 1. Warning  
