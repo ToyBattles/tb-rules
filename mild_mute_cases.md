@@ -25,8 +25,9 @@ Repeated spam messages (obviously serious spamming)
 **Punishments:**
 1. Warning  
 2. 1 day mute  
-3. 3 day mute
-   
+3. 2 day mute
+4. 3 day mute
+
 All the next mutes after the 3rd offense will have a 3 days length.
 
 ---
