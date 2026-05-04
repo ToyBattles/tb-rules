@@ -4,6 +4,31 @@
 
 ---
 
+# 👢 Kick Punishments
+
+⚠️ **Always warn first**  
+- Do NOT kick without warning
+
+⚠️ Kicks must have:
+- Clear **reason**
+- **Evidence**
+
+---
+
+## ✅ Valid Reasons to Kick
+- Player is abusing bugs/glitches for advantage  
+- Player avoids votekick by leaving and rejoining  
+
+---
+
+## ❌ Invalid Reasons to Kick
+- Personal dislike  
+- Other players asking you to kick  
+
+👉 Use the **votekick system** instead
+
+---
+
 ## 🏷️ Room Title Rules
 
 ### 🔗 Bad / Suspicious Titles
