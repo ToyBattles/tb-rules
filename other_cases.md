@@ -4,7 +4,7 @@
 
 ---
 
-# 👢 Kick Punishments
+## Kick Punishments
 
 ⚠️ **Always warn first**  
 - Do NOT kick without warning
@@ -13,13 +13,10 @@
 - Clear **reason**
 - **Evidence**
 
----
 
 ## ✅ Valid Reasons to Kick
 - Player is abusing bugs/glitches for advantage  
 - Player avoids votekick by leaving and rejoining  
-
----
 
 ## ❌ Invalid Reasons to Kick
 - Personal dislike  
