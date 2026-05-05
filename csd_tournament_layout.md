@@ -28,7 +28,7 @@
 
 ---
 
-## ⚙️ Rules (CSD Mode)
+## ⚙️ Allowed Items (CSD Mode)
 - 🔹 **Basic set only** *(no parts or accessories)*  
 - 🔹 **Allowed weapons:** MP **Green, White, Black** *(upgrades allowed)*  
   → *Full weapon list to be added*  
