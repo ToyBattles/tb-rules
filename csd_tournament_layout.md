@@ -1,48 +1,47 @@
+# 🏆 Clan Showdown Tournament
 
-# Clan Showdown Tournament
+## 📌 Important Details
+- 🎥 **Recording is mandatory** for every match  
+- ❌ **Failure to record or submit all videos = full team disqualification**  
+- 👥 **All players must be in the same clan** during the tournament  
 
-## Important Details
-- Recording your gameplay is mandatory for every match.  
-- If you don’t record or don't share all videos after the tournament, your entire team is disqualified immediately.  
-- Your whole team must be in the same clan at the time of the tournament.  
-
-**Tournament host:**  
+**Host:**  
 **Co-hosts:**  
 **Date & Time:**  
-**Registration deadline:**  
-**Team limit:**  
-**Game style:**  
-**Game settings:** Elimination / 5 rounds / 3 minutes  
+**Registration Deadline:**  
+**Team Limit:**  
+**Game Style:**  
+**Game Settings:** *Elimination • 5 Rounds • 3 Minutes*  
 **Brackets:**  
-**Bracket settings:**  
+**Bracket Settings:**  
 **Streamer:**  
 
 ---
 
-## Rewards
-- **1st place:**  
-- **2nd place:**  
-- **3rd place:**  
-- **Participation reward:**  
+## 🎁 Rewards
+- 🥇 **1st Place:**  
+- 🥈 **2nd Place:**  
+- 🥉 **3rd Place:**  
+- 🎖️ **Participation Reward:**  
 
-To receive any reward, your team must play at least one match.
-
----
-
-## Rules (CSD Mode)
-- Basic set only (no parts or accessories)  
-- Only MP green, white, and black weapons allowed (shop upgrades allowed)  
-  → Add full weapon list here  
-- Basic Bazooka only  
+⚠️ *Teams must play at least one match to receive rewards.*
 
 ---
 
-## Map Selection
-- There are 7 maps in total  
-- Teams take turns banning maps  
-- The last remaining map is the one played  
+## ⚙️ Rules (CSD Mode)
+- 🔹 **Basic set only** *(no parts or accessories)*  
+- 🔹 **Allowed weapons:** MP **Green, White, Black** *(shop upgrades allowed)*  
+  → *Full weapon list to be added*  
+- 🔹 **Basic Bazooka only**  
 
-**Map Pool:**
+---
+
+## 🗺️ Map Selection
+- Total of **7 maps**  
+- Teams **take turns banning maps**  
+- The **last remaining map** is played  
+
+### 📍 Map Pool
 - House Top  
 - Castle  
 - Junk Yard  
@@ -51,77 +50,91 @@ To receive any reward, your team must play at least one match.
 - PVC Factory  
 - Battle Mine  
 
-- The team placed on top of the bracket:
-  - Starts on blue side  
-  - Begins the map ban process  
+### 🔄 Bracket Advantage
+- Team on **top side of bracket**:
+  - 🔵 Starts on **Blue side**  
+  - 🚫 Begins the **map ban process**  
 
 ---
 
-## Winning Conditions
-- Each matchup consists of 2 matches  
-- The winner is the team with the highest total round points across both matches  
+## 🏁 Winning Conditions
+- Each matchup = **2 matches**  
+- 🧮 Winner = team with **highest total round points** across both matches  
 
 ---
 
-## Registration Format
-- **Team name:**  
-- **Team leader:** (only one, main contact)  
-- **Team roster:** (4 players + 1 substitute)  
+## 📝 Registration Format
+- **Team Name:**  
+- **Team Leader:** *(main contact only)*  
+- **Team Roster:** *(4 players + 1 substitute)*  
 
-We agree to participate in the Clan Showdown tournament.  
-We have read and fully accept the rules.  
+✔️ We agree to participate in the Clan Showdown Tournament  
+✔️ We have read and fully accept all rules  
 
 ---
 
-## Tournament Rules
+## 📖 Tournament Rules
 
-### Recording & Fair Play
-- You must record your full POV during all matches  
-- At the end of the tournament, you need to upload all your matches and share them with the team  
-- Failure to record = team disqualification (immediate, without further warnings)  
+### 🎥 Recording & Fair Play
+- Full **POV recording required** for all matches  
+- Upload and share all matches **after the tournament**  
+- ❌ No recording = **instant team disqualification**
 
-### Attendance
-- Teams must join within 10 minutes of being invited  
-- Late teams will be disqualified with no further warning  
+---
 
-### Forbidden Actions
-- Using third-party programs → instant disqualification from tournament + ban  
-- Account sharing → immediate disqualification from the tournament  
-- Using alternate accounts → immediate disqualification from the tournament  
-- Using bugs, glitches, or exploits → immediate loss of the current match with 0 points  
-- Breaking any rules = immediate loss of the current match with 0 points  
-- Switching teams during the tournament → immediate loss of the current match with 0 points  
+### ⏰ Attendance
+- Teams must join within **10 minutes** of invitation  
+- ❌ Late arrival = **disqualification (no warnings)**  
 
-### Fair Competition
-- Players banned by the game developers cannot participate, not even through alternative accounts  
-- Cheating teams will lose all rewards and be instantly DQ from the tournament, even if only one player from the team is found cheating or breaking the tournament rules above  
+---
 
-### Match Issues
-In case of:
+### 🚫 Forbidden Actions
+- Third-party programs → ❌ **DQ + ban**  
+- Account sharing → ❌ **DQ**  
+- Alternate accounts → ❌ **DQ**  
+- Bugs / glitches / exploits → ❌ **match loss (0 points)**  
+- Rule violations → ❌ **match loss (0 points)**  
+- Switching teams → ❌ **match loss (0 points)**  
+
+---
+
+### ⚖️ Fair Competition
+- 🚷 Players banned by developers **cannot participate** (even on alt accounts)  
+- 🛑 Cheating = **team disqualified + rewards revoked**  
+
+---
+
+### 🔄 Match Issues
+If any of the following occur:
 - Server crash  
 - Major in-game bug  
 
-A rematch may happen (host decides):
-- Score stays the same  
+➡️ A **rematch may be issued** (host decision):
+- Score remains the same  
 - Only remaining rounds are played  
-
-### Behavior Rules
-- Toxic behavior is not allowed  
-- After 2 warnings, your team is disqualified immediately with no further warnings  
-- Respect all players and staff  
-- Violations may lead to future bans  
-
-### Streaming & Spectating
-- Stream delay must be at least 1 minute  
-- Only co-hosts can spectate  
-- Brackets will be created live on Twitch  
-
-### Communication
-- All announcements and updates will be shared on the Toybattles Discord server  
 
 ---
 
-## Final Notes
-- By registering, all players confirm they understand and accept all rules  
-- No exceptions will be made
-]
+### 🤝 Behavior Rules
+- ❌ Toxic behavior is not allowed  
+- ⚠️ After **2 warnings → team disqualified**  
+- Respect all players and staff  
+- Violations may result in **future bans**  
+
+---
+
+### 📡 Streaming & Spectating
+- ⏱️ Minimum **1-minute stream delay**  
+- 👀 Only **co-hosts may spectate**  
+- 📺 Brackets created **live on Twitch**  
+
+---
+
+### 📢 Communication
+- All updates shared via **Toybattles Discord server**  
+
+---
+
+## 📌 Final Notes
+- ✔️ Registering confirms **full agreement with all rules**  
+- ❗ **No exceptions** will be made  
