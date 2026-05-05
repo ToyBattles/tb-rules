@@ -93,17 +93,16 @@ Normal rules STILL apply!
 
 
 ### 🚫 Forbidden Actions
-- Third-party programs → ❌ **DQ + ban**  
-- Account sharing → ❌ **DQ**  
-- Alternate accounts → ❌ **DQ**  
-- Bugs / glitches / exploits → ❌ **match loss (0 points)**  
-- Rule violations → ❌ **match loss (0 points)**  
+- Third-party programs / exploits → ❌ **tournament DQ of whole team + ban**  
+- Account sharing or playing via alternative accounts in multiple teams → ❌ **tournament DQ of whole team**  
+- Rule violations → ❌ if severe => **DQ from tournament of whole team + eventual ban**, otherwise => **match loss (0 points)**  
+- Bugs / glitches → ❌ **automatic match loss (0 points)**  
 - Switching teams → ❌ **match loss (0 points)**  
 
 
 ### ⚖️ Fair Competition
-- 🚷 Players banned by developers **cannot participate** (even on alt accounts)  
-- 🛑 Cheating = **team disqualified + rewards revoked**  
+- 🚷 Players banned  **cannot participate** via alt accounts
+- 🛑 Cheating = **team disqualified + rewards revoked + ban**  
 
 
 ### 🔄 Match Issues
