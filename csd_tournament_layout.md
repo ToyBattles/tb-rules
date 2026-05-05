@@ -24,7 +24,7 @@
 - 🥉 **3rd Place:**  
 - 🎖️ **Participation Reward:**  
 
-⚠️ *Teams must play at least one match to receive rewards.*
+⚠️ *Teams must play at least one match to receive rewards. Only players that participate in the tournament at least for one match will receive participation rewards.*
 
 ---
 
