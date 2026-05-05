@@ -54,7 +54,7 @@
 - Matchups are **randomly generated** using a bracket system *(e.g. Challonge)*  
 - Each round, teams face the opponent assigned by the bracket  
 - The **top team in the bracket** is determined automatically
-- 
+  
 ### 🔄 Bracket Advantage
 - Team on **top side of bracket**:
   - 🔵 Starts on **Blue side**  
