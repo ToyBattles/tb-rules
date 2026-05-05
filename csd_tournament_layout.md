@@ -50,6 +50,11 @@
 - PVC Factory  
 - Battle Mine  
 
+### 🎲 Match & Team Selection
+- Matchups are **randomly generated** using a bracket system *(e.g. Challonge)*  
+- Each round, teams face the opponent assigned by the bracket  
+- The **top team in the bracket** is determined automatically
+- 
 ### 🔄 Bracket Advantage
 - Team on **top side of bracket**:
   - 🔵 Starts on **Blue side**  
@@ -74,19 +79,18 @@
 ---
 
 ## 📖 Tournament Rules
+Normal rules STILL apply!
 
 ### 🎥 Recording & Fair Play
 - Full **POV recording required** for all matches  
 - Upload and share all matches **after the tournament**  
 - ❌ No recording = **instant team disqualification**
 
----
 
 ### ⏰ Attendance
 - Teams must join within **10 minutes** of invitation  
 - ❌ Late arrival = **disqualification (no warnings)**  
 
----
 
 ### 🚫 Forbidden Actions
 - Third-party programs → ❌ **DQ + ban**  
@@ -96,13 +100,11 @@
 - Rule violations → ❌ **match loss (0 points)**  
 - Switching teams → ❌ **match loss (0 points)**  
 
----
 
 ### ⚖️ Fair Competition
 - 🚷 Players banned by developers **cannot participate** (even on alt accounts)  
 - 🛑 Cheating = **team disqualified + rewards revoked**  
 
----
 
 ### 🔄 Match Issues
 If any of the following occur:
@@ -113,7 +115,6 @@ If any of the following occur:
 - Score remains the same  
 - Only remaining rounds are played  
 
----
 
 ### 🤝 Behavior Rules
 - ❌ Toxic behavior is not allowed  
@@ -121,14 +122,12 @@ If any of the following occur:
 - Respect all players and staff  
 - Violations may result in **future bans**  
 
----
 
 ### 📡 Streaming & Spectating
 - ⏱️ Minimum **1-minute stream delay**  
 - 👀 Only **co-hosts may spectate**  
 - 📺 Brackets created **live on Twitch**  
 
----
 
 ### 📢 Communication
 - All updates shared via **Toybattles Discord server**  
