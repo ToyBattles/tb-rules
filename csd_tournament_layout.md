@@ -30,7 +30,7 @@
 
 ## ⚙️ Rules (CSD Mode)
 - 🔹 **Basic set only** *(no parts or accessories)*  
-- 🔹 **Allowed weapons:** MP **Green, White, Black** *(shop upgrades allowed)*  
+- 🔹 **Allowed weapons:** MP **Green, White, Black** *(upgrades allowed)*  
   → *Full weapon list to be added*  
 - 🔹 **Basic Bazooka only**  
 
