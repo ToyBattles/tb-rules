@@ -29,7 +29,7 @@
 ---
 
 ## ⚙️ Allowed Items (CSD Mode)
-- 🔹 **Basic set only** *(no parts or accessories)*  
+- 🔹 **Basic set only** *(no parts or accessories)*  | **Note:** Sets that give no stats are allowed (e.g. NPC sets).
 - 🔹 **Allowed weapons:** MP **Green, White, Black** *(upgrades allowed)*  
   → *Full weapon list to be added*  
 - 🔹 **Basic Bazooka only**  
@@ -97,7 +97,10 @@ Normal rules STILL apply!
 - Account sharing or playing via alternative accounts in multiple teams → ❌ **tournament DQ of whole team**  
 - Rule violations → ❌ if severe => **DQ from tournament of whole team + eventual ban**, otherwise => **match loss (0 points)**  
 - Bugs / glitches → ❌ **automatic match loss (0 points)**  
-- Switching teams → ❌ **match loss (0 points)**  
+- Switching teams during a match → ❌ **match loss (0 points)**
+
+  (**Note**: A reserve can NOT join a match while it's on going, and they cannot substitute a player while the match is on going.
+  => The reserve can only play **from the start of the match**, if one player can't be there; in this case the reserve must play the **whole match**).
 
 
 ### ⚖️ Fair Competition
