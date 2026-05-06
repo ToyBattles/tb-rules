@@ -2,7 +2,7 @@
 
 ## 📌 Important Details
 - 🎥 **Recording is mandatory** for every match  
-- ❌ **Failure to record or submit all videos = full team disqualification**  
+- ❌ **Failure to record or submit all videos = full team disqualification (NO EXCPETIONS WILL BE MADE)**  
 - 👥 **All players must be in the same clan** during the tournament  
 
 **Host:**  
