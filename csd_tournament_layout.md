@@ -5,6 +5,7 @@
 - ❌ **Failure to record or submit all videos = full team disqualification (NO EXCPETIONS WILL BE MADE)**  
 - 👥 **All players must be in the same clan** during the tournament
 - Before the real match starts, all players join a test match to get ready and make sure everyone can load in-time.
+
 => If someone did not load in time on this match, the match will be restarted. Otherwise, the match starts normally.
   
 **Host:**  
