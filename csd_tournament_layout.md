@@ -4,8 +4,9 @@
 - 🎥 **Recording is mandatory** for every match  
 - ❌ **Failure to record or submit all videos = full team disqualification (NO EXCPETIONS WILL BE MADE)**  
 - 👥 **All players must be in the same clan** during the tournament
-- Before each match, all players will start a "test match" to avoid issues like someone not loading in the match in time. **This isn't required if all players loaded in time at match start**.
-
+- Before each match, all players will participate in a **test match** to prevent issues such as players failing to load into the game on time.  
+  *Note*: This step is **not required** if all players successfully load in before the official match start.
+  
 **Host:**  
 **Co-hosts:**  
 **Date & Time:**  
@@ -67,10 +68,11 @@
 - Each matchup = **2 matches**  
 - 🧮 Winner = team with **highest total round points** across both matches  
 
-### In case of a Tie:
-- Winner = Team with most total kills (sum of the two matches)
-- If tie again, winner = Team that has the player with most total kills (sum of two matches)
-  
+### In Case of a Tie
+- The winner is the team with the most total kills from both matches combined  
+- If still tied, the winner is the team with the player who has the most total kills from both matches  
+- If still tied, the winner is the team with the fewest total deaths from both matches
+- 
 ---
 
 ## 📝 Registration Format
