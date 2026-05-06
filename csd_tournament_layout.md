@@ -4,8 +4,8 @@
 - 🎥 **Recording is mandatory** for every match  
 - ❌ **Failure to record or submit all videos = full team disqualification (NO EXCPETIONS WILL BE MADE)**  
 - 👥 **All players must be in the same clan** during the tournament
-- Before each match, all players will participate in a **test match** to prevent issues such as players failing to load into the game on time.  
-  *Note*: This step is **not required** if all players successfully load in before the official match start.
+- Before the real match starts, all players join a test match to get ready and make sure everything loads correctly. This helps prevent issues like slow loading or players not entering the game in time.
+=> If someone did not load in time on this match, the match will be restarted. Otherwise, the match starts normally.
   
 **Host:**  
 **Co-hosts:**  
