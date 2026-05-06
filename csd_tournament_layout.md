@@ -72,7 +72,7 @@
 - The winner is the team with the most total kills from both matches combined  
 - If still tied, the winner is the team with the player who has the most total kills from both matches  
 - If still tied, the winner is the team with the fewest total deaths from both matches
-- 
+  
 ---
 
 ## 📝 Registration Format
